@@ -1,6 +1,6 @@
 package kr.ac.itschool.practice;
 
-public class MemberImplement implements Member{
+public class MemberImplement implements MemberInterface{
 
 	@Override
 	public void insert() {
